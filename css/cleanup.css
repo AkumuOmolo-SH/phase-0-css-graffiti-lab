@@ -1,1 +1,22 @@
 /* write your override styles here */
+#wall .tag-1 {
+    display: none;
+}
+
+#wall #tag-2
+Specificity: (2,0,0)
+ {
+    background: url(../images/tag-2.png) no-repeat;
+    z-index: 6;
+    display: none;
+}
+
+div#wall #tag-3.slick {
+    background: url(../images/tag-3.png) no-repeat;
+    z-index
+For a positioned box, the 'z-index' property specifies the stack level of the box in the current stacking context and whether the box establishes a local stacking context.
+Learn more
+Don't show
+: 5;
+    display: none;
+}
